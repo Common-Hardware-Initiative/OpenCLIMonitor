@@ -8,17 +8,17 @@ class Application
 
     }
 
-    void initialise()
+    protected void initialise()
     {
 
     }
 
-    void execute()
+    protected void execute()
     {
 
     }
 
-    void garbageCollection()
+    protected void garbageCollection()
     {
 
     }
