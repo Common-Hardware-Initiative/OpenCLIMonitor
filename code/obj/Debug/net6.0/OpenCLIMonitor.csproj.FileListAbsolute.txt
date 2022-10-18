@@ -1,0 +1,15 @@
+/mnt/d/workspace/CHI/OpenCLIMonitor/code/bin/Debug/net6.0/OpenCLIMonitor
+/mnt/d/workspace/CHI/OpenCLIMonitor/code/bin/Debug/net6.0/OpenCLIMonitor.deps.json
+/mnt/d/workspace/CHI/OpenCLIMonitor/code/bin/Debug/net6.0/OpenCLIMonitor.runtimeconfig.json
+/mnt/d/workspace/CHI/OpenCLIMonitor/code/bin/Debug/net6.0/OpenCLIMonitor.dll
+/mnt/d/workspace/CHI/OpenCLIMonitor/code/bin/Debug/net6.0/OpenCLIMonitor.pdb
+/mnt/d/workspace/CHI/OpenCLIMonitor/code/obj/Debug/net6.0/OpenCLIMonitor.csproj.AssemblyReference.cache
+/mnt/d/workspace/CHI/OpenCLIMonitor/code/obj/Debug/net6.0/OpenCLIMonitor.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/d/workspace/CHI/OpenCLIMonitor/code/obj/Debug/net6.0/OpenCLIMonitor.AssemblyInfoInputs.cache
+/mnt/d/workspace/CHI/OpenCLIMonitor/code/obj/Debug/net6.0/OpenCLIMonitor.AssemblyInfo.cs
+/mnt/d/workspace/CHI/OpenCLIMonitor/code/obj/Debug/net6.0/OpenCLIMonitor.csproj.CoreCompileInputs.cache
+/mnt/d/workspace/CHI/OpenCLIMonitor/code/obj/Debug/net6.0/OpenCLIMonitor.dll
+/mnt/d/workspace/CHI/OpenCLIMonitor/code/obj/Debug/net6.0/refint/OpenCLIMonitor.dll
+/mnt/d/workspace/CHI/OpenCLIMonitor/code/obj/Debug/net6.0/OpenCLIMonitor.pdb
+/mnt/d/workspace/CHI/OpenCLIMonitor/code/obj/Debug/net6.0/OpenCLIMonitor.genruntimeconfig.cache
+/mnt/d/workspace/CHI/OpenCLIMonitor/code/obj/Debug/net6.0/ref/OpenCLIMonitor.dll
